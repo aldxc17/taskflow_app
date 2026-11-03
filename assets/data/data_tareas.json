@@ -1,0 +1,213 @@
+
+[
+  {
+    "id": 1,
+    "tituloTarea": "Terminar proyecto en Flutter",
+    "fecha": "03/11/2026",
+    "hora": "08:30 a.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 2,
+    "tituloTarea": "Estudiar para el examen",
+    "fecha": "03/11/2026",
+    "hora": "10:00 a.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 3,
+    "tituloTarea": "Ir a la biblioteca",
+    "fecha": "04/11/2026",
+    "hora": "04:00 p.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 4,
+    "tituloTarea": "Realizar tarea de matemáticas",
+    "fecha": "04/11/2026",
+    "hora": "06:30 p.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 5,
+    "tituloTarea": "Comprar materiales escolares",
+    "fecha": "05/11/2026",
+    "hora": "11:00 a.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 6,
+    "tituloTarea": "Enviar reporte del proyecto",
+    "fecha": "05/11/2026",
+    "hora": "09:00 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 7,
+    "tituloTarea": "Ir a jugar voleibol",
+    "fecha": "06/11/2026",
+    "hora": "05:30 p.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 8,
+    "tituloTarea": "Revisar correos electrónicos",
+    "fecha": "06/11/2026",
+    "hora": "08:00 a.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 9,
+    "tituloTarea": "Preparar exposición de Flutter",
+    "fecha": "07/11/2026",
+    "hora": "03:00 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 10,
+    "tituloTarea": "Organizar archivos del proyecto",
+    "fecha": "07/11/2026",
+    "hora": "12:00 p.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 11,
+    "tituloTarea": "Actualizar repositorio de GitHub",
+    "fecha": "08/11/2026",
+    "hora": "07:00 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 12,
+    "tituloTarea": "Hacer ejercicio",
+    "fecha": "08/11/2026",
+    "hora": "06:00 a.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 13,
+    "tituloTarea": "Investigar sobre Google AdMob",
+    "fecha": "09/11/2026",
+    "hora": "04:30 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 14,
+    "tituloTarea": "Limpiar escritorio",
+    "fecha": "09/11/2026",
+    "hora": "09:30 a.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 15,
+    "tituloTarea": "Preparar presentación escolar",
+    "fecha": "10/11/2026",
+    "hora": "05:00 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 16,
+    "tituloTarea": "Repasar programación en Dart",
+    "fecha": "10/11/2026",
+    "hora": "07:30 p.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 17,
+    "tituloTarea": "Comprar alimentos",
+    "fecha": "11/11/2026",
+    "hora": "01:00 p.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 18,
+    "tituloTarea": "Leer un capítulo del libro",
+    "fecha": "11/11/2026",
+    "hora": "08:00 p.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 19,
+    "tituloTarea": "Corregir errores de la aplicación",
+    "fecha": "12/11/2026",
+    "hora": "10:30 a.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 20,
+    "tituloTarea": "Realizar respaldo de archivos",
+    "fecha": "12/11/2026",
+    "hora": "06:00 p.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 21,
+    "tituloTarea": "Diseñar pantalla de tareas",
+    "fecha": "13/11/2026",
+    "hora": "09:00 a.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 22,
+    "tituloTarea": "Organizar horario semanal",
+    "fecha": "13/11/2026",
+    "hora": "05:00 p.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 23,
+    "tituloTarea": "Revisar documentación de Flutter",
+    "fecha": "14/11/2026",
+    "hora": "11:30 a.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 24,
+    "tituloTarea": "Probar aplicación en Android",
+    "fecha": "14/11/2026",
+    "hora": "04:00 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 25,
+    "tituloTarea": "Lavar ropa",
+    "fecha": "15/11/2026",
+    "hora": "08:00 a.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 26,
+    "tituloTarea": "Preparar material de estudio",
+    "fecha": "15/11/2026",
+    "hora": "03:30 p.m.",
+    "prioridad": "Media"
+  },
+  {
+    "id": 27,
+    "tituloTarea": "Implementar anuncios de prueba",
+    "fecha": "16/11/2026",
+    "hora": "10:00 a.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 28,
+    "tituloTarea": "Revisar pendientes personales",
+    "fecha": "16/11/2026",
+    "hora": "07:00 p.m.",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 29,
+    "tituloTarea": "Preparar demostración de TaskFlow",
+    "fecha": "17/11/2026",
+    "hora": "02:00 p.m.",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 30,
+    "tituloTarea": "Entregar proyecto final",
+    "fecha": "18/11/2026",
+    "hora": "11:59 p.m.",
+    "prioridad": "Alta"
+  }
+]
